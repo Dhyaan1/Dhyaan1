@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">1. State Of The World🌏🌎🌍</h3>
+<h3 align="left">✅1. State Of The World🌏🌎🌍</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">2. Spread the Word🔠🎮🤖</h3>
+<h3 align="left">✅2. Spread the Word🔠🎮🤖</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">3. Portfolio Website🤓💁🧐</h3>
+<h3 align="left">🏗️3. Portfolio Website🤓💁🧐</h3>
 
 ###
 
@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhyaan1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=swift&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhyaan1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=swift&hide_border=false&size_weight=0.5&count_weight=0.5" height="200" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Dhyaan1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Dhyaan1&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=50" height="200" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhyaan1&area=true&hide_border=false&hide_title=false&radius=16&bg_color=FFFFFF&color=000000&title_color=004BA8&line=750D37&area_color=004BA8&point=3185FC" height="341" alt="activity-graph graph"  />
@@ -131,8 +131,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -170,10 +168,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
   <img width="12" />
