@@ -20,6 +20,10 @@
 
 <p align="left">"State Of The World" is a project aimed at summarizing monthly climate/global warming-related information and news from the top countries worldwide. It also collects weather data and displays it on a 3D globe built with ThreeJs in React. Leveraging Azure AI services, I've trained a custom model for sentiment analysis and news classification, ensuring only relevant climate-related news is considered. I plan to host it using Azure and integrate more Azure services.</p>
 
+[![State of the World](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=stateoftheworld&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/stateoftheworld#gh-dark-mode-only)
+[![State of the World](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=stateoftheworld&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/stateoftheworld#gh-light-mode-only)
+
+
 ###
 
 <h3 align="left">✅2. Spread the Word🔠🎮🤖</h3>
@@ -28,13 +32,19 @@
 
 <p align="left">"Spread the Word" is a Unity-based game that allows users to play word games (like Wordle) online with friends. Utilizing Unity Netcode for Game Objects, players can create or join lobbies over the internet using Unity Services such as Unity Lobbies and Relays. Currently, I'm collecting gameplay data to explore ML model development and other AIML related activities to improve the player experience.</p>
 
+[![Spread The Word](https://github-readme-stats.vercel.app/api/pin/?username=Dhyaan1&repo=Spread-The-Word&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/Dhyaan1/Spread-The-Word#gh-dark-mode-only)
+[![Spread The Word](https://github-readme-stats.vercel.app/api/pin/?username=Dhyaan1&repo=Spread-The-Word&theme=transparent#gh-light-mode-only)](https://github.com/Dhyaan1/Spread-The-Word#gh-light-mode-only)
+
 ###
 
 <h3 align="left">🏗️3. Portfolio Website🤓💁🧐</h3>
 
 ###
 
-<p align="left">I'm in the process of creating a portfolio website for myself using Next.js and other technologies I've learnt till now. This platform will showcase my web development skills and projects.</p>
+<p align="left">
+I'm in the process of creating a portfolio website for myself using Next.js and other technologies I've learnt till now. This platform will showcase my web development skills and projects.
+But I might also just try using the website builders like Framer and Wordpress cuz I'm ✨𝕮𝓊𝖗𝒾𝖔𝓊𝖘✨.
+</p>
 
 ###
 
@@ -50,7 +60,12 @@
 
 ###
 
-<p align="left">I'm honing my Data Structures and Algorithms skills using C++, and I'm also exploring the creation of Chrome extensions for a personal project.</p>
+<p align="left">I'm honing my Data Structures and Algorithms skills using C++; and I'm also exploring the creation of Chrome extensions for a personal project, I'm calling it ᗩᖇᗩᑕᕼᑎᏆᗪ.</p>
+
+(A month later and I've made it ✅)
+
+[![Arachnid](https://github-readme-stats.vercel.app/api/pin/?username=dragn0id&repo=arachnid&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/dragn0id/arachnid#gh-dark-mode-only)
+[![Arachnid](https://github-readme-stats.vercel.app/api/pin/?username=dragn0id&repo=arachnid&theme=transparent#gh-light-mode-only)](https://github.com/dragn0id/arachnid#gh-light-mode-only)
 
 ###
 
@@ -66,7 +81,8 @@
 
 ###
 
-<p align="center"><a href="https://play.google.com/store/apps/details?id=com.edustack.android&hl=en_US" target="_blank">Play Store</a> - <a href="https://rvitm.edu-stack.com" target="_blank">Website</a> - <a href="https://github.com/darshan-sr/edustack-next" target="_blank">Public Repo</a></p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.edustack.android&hl=en_US" target="_blank">Play Store</a> - <a href="https://rvitm.vercel.app/auth/signin" target="_blank">Website</a> - <a href="https://github.com/darshansrc/edustack-rvitm" target="_blank">Public Repo</a></p>
+Note: You can only use it if you are a student of RVITM or Vivekanand Institute of Technology(VIT).
 
 ###
 
@@ -144,6 +160,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
